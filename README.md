@@ -1,4 +1,4 @@
-# Aspen (Artifact Evaluation)
+# Aspen
 
 This repository provides  experiments, scripts, and instructions for reproducing
 the experiments in our paper, *Low-Latency Graph Streaming Using Compressed
